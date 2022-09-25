@@ -10,8 +10,11 @@ ghc --make mazes -package Win32 -package mtl
 (works on windows, probably not other OS)
 
 TODO:
+
 Change maze data type to be more efficient
-Comment
+
+Comment code
 
 ISSUES:
+
 due to unicode character encoding, drawing solved maze doesn't work in ghci
