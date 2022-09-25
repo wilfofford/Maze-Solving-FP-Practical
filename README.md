@@ -3,6 +3,9 @@ Enhanced version of a functional programming project to make a maze solver in Ha
 
 Enhanced with random maze generation for some monadic fun.
 
+Might have gone overboard with the monad notation (used for lists, IO and random/state)
+
+
 To build : use 
 ```
 ghc --make mazes -package Win32 -package mtl
