@@ -1,6 +1,8 @@
 # School-Project-Maze-Solving
 Enhanced version of a functional programming project to make a maze solver in Haskell.
 
+Enhanced with random maze generation for some monadic fun.
+
 To build : use 
 ```
 ghc --make mazes -package Win32 -package mtl
